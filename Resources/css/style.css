@@ -1,3 +1,7 @@
 h1 {
-    font-family: georgia;
+    font-family: Verdana;
+    size: 50px;
+    color: white;
+    text-align: center;
+    font-weight: normal;
 }
